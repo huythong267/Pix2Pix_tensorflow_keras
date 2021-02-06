@@ -11,4 +11,4 @@ Examples of image-to-image translation from the [Official Repo](https://github.c
 
 Examples of translated images from this implementation:
           
-![Translated Image](https://drive.google.com/file/d/1klIAopKUYke39aqoeg1pAduGP1Nu1GNo/view?usp=sharing)
+![Translated Image](https://github.com/huythong267/Pix2Pix_tensorflow_keras/blob/main/Pix2Pix.png)
