@@ -9,6 +9,8 @@ Examples of image-to-image translation from the [Official Repo](https://github.c
            
 ![Pix2pix Image](https://camo.githubusercontent.com/c10e6bc28b817a8741c2611e685eec2f6e2634587227699290dece8dd7e13d0c/68747470733a2f2f7068696c6c6970692e6769746875622e696f2f706978327069782f696d616765732f7465617365725f76332e706e67)
 
-Examples of translated images from this implementation:
+Examples of translated images:
           
 ![Translated Image](https://github.com/huythong267/Pix2Pix_tensorflow_keras/blob/main/Pix2Pix.png)
+
+Also, please visit a [colab notebook](https://colab.research.google.com/drive/16Jq85vIXlLFITbaSsMIR1o8BwVs1F-z2#scrollTo=fheQE_c8309a) 
