@@ -13,4 +13,4 @@ Examples of translated images:
           
 ![Translated Image](https://github.com/huythong267/Pix2Pix_tensorflow_keras/blob/main/Pix2Pix.png)
 
-Also, please visit a [colab notebook](https://colab.research.google.com/drive/16Jq85vIXlLFITbaSsMIR1o8BwVs1F-z2#scrollTo=fheQE_c8309a) 
+Also, please visit a [colab notebook](https://colab.research.google.com/drive/11cN3g2n1nhSHtDQclr1chphN4uM1XDUt#scrollTo=OkRMbzOjIQ6Z) 
